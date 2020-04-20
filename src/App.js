@@ -8,11 +8,14 @@ function App() {
   return (
     <div className="App">
       <AppHeader />
-      <div class="cards">
-        <ExerciseCard name="Introduction"></ExerciseCard>
-        <ExerciseCard name="Exercise 1-1"></ExerciseCard>
-        <ExerciseCard name="Exercise 1-2"></ExerciseCard>
+      <main>
+        <div class="cards">
+          <ExerciseCard name="Introduction"></ExerciseCard>
+          <ExerciseCard name="Exercise 1-1"></ExerciseCard>
+          <ExerciseCard name="Exercise 1-2"></ExerciseCard>
       </div>
+      </main>
+      
       
       
     </div>
