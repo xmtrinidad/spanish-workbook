@@ -9,9 +9,7 @@ main {
     .cards {
         display: flex;
         justify-content: space-between;
-    }
-
-    .cards > * {
-        
+        max-width: 800px;
+        margin: auto;
     }
 }
