@@ -10,10 +10,10 @@ const exerciseCard = (props) => {
         <h2>{props.name}</h2>
       </div>
       <div className={classes.cardBody}>
-        <IconButton color="primary" aria-label="Exercise Notes">
+        <IconButton title="Exercise Notes" color="primary" aria-label="Exercise Notes">
           <Notes />
         </IconButton>
-        <IconButton color="primary" aria-label="Start Exercise">
+        <IconButton title="Exercise" color="primary" aria-label="Start Exercise">
           <HomeWork />
         </IconButton>
       </div>

@@ -1,13 +1,14 @@
+export const md = `
 # Subject Pronouns
 
 **Function** - To replace a noun that names the subject (the actor) in a clause or sentence
 
 
-<table class="tg">
-  <tr>
-    <th class="tg-0pky" colspan="2"><span style="font-weight:bold">Singular</span></th>
+<table class="tg" style="border-spacing: 15px;">
+  <thead>
+    <th style="margin-right: 10px;" class="tg-0pky" colspan="2"><span style="font-weight:bold">Singular</span></th>
     <th class="tg-0pky" colspan="2"><span style="font-weight:bold">Plural</span></th>
-  </tr>
+  </thead>
   <tr>
     <td class="tg-0pky">yo</td>
     <td class="tg-0pky">I</td>
@@ -27,3 +28,4 @@
     <td class="tg-0pky">they (masc., masc. &amp; fem.)<br>they (fem.)<br>you (formal)</td>
   </tr>
 </table>
+`;
