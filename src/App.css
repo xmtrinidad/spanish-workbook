@@ -6,9 +6,8 @@ main {
 }
 
 .App .activity {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    max-width: 1200px;
+    margin: auto;
 }
 
 @media (min-width: 768px) {

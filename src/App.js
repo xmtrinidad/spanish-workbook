@@ -12,12 +12,12 @@ function App() {
     <div className="App">
       <AppHeader />
       <main>
-        <div class="cards">
+        <div className="cards">
           <ExerciseCard name="Introduction"></ExerciseCard>
           <ExerciseCard name="Exercise 1-1"></ExerciseCard>
           <ExerciseCard name="Exercise 1-2"></ExerciseCard>
         </div>
-        <div class="activity">
+        <div className="activity">
           <ReactMarkdown source={md} escapeHtml={false} />
         </div>
       </main>

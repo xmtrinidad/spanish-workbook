@@ -1,31 +1,15 @@
 export const md = `
-# Subject Pronouns
+# Conjugation of regular verbs
 
-**Function** - To replace a noun that names the subject (the actor) in a clause or sentence
+## The basics of verbs
 
+As you begin your study of verb tenses in Spanish, it is important to understand
+the basic terminology relating to verbs and their formation.
 
-<table class="tg" style="border-spacing: 15px;">
-  <thead>
-    <th style="margin-right: 10px;" class="tg-0pky" colspan="2"><span style="font-weight:bold">Singular</span></th>
-    <th class="tg-0pky" colspan="2"><span style="font-weight:bold">Plural</span></th>
-  </thead>
-  <tr>
-    <td class="tg-0pky">yo</td>
-    <td class="tg-0pky">I</td>
-    <td class="tg-0pky">nosotros<br>nosotras</td>
-    <td class="tg-0pky">we (masc., masc. &amp; fem)<br>we (fem.)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">tu</td>
-    <td class="tg-0pky">you (informal)</td>
-    <td class="tg-0pky">vosotros<br>vosotras</td>
-    <td class="tg-0pky">you (informal, masc., masc. &amp; fem).<br>you (informal, fem.)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">el<br>ella<br>usted</td>
-    <td class="tg-0pky">he<br>she<br>you</td>
-    <td class="tg-0pky">ellos<br>ellas<br>ustedes</td>
-    <td class="tg-0pky">they (masc., masc. &amp; fem.)<br>they (fem.)<br>you (formal)</td>
-  </tr>
-</table>
+**Conjugation** - The word *conjugation* has two related meanings in Spanish grammar: (1) one of the three groups of verbs classified by the infinitive ending (**-ar**, **-er**, and **-ir** verbs); (2) the set of verb forms consisting of the verb base plus verb endings that correspond to the subject pronouns.
+
+**Infinitive** - The verb in its pure form—the idea of the verb, without any expression of action. In English, all infinitives include the word “to”: “to sing,” “to eat,” “to
+live.” In Spanish, all infinitives belong to one of three conjugations, which is determined by the infinitive ending: **-ar**, **-er**, or **-ir**. The infinitive is like a hand grenade before you pull the pin—no real action, but a lot of potential.
+
+**Infinitive Ending** -  The **-ar**, **-er**, or **-ir** ending that identifies the verb conjugation to which the verb belongs, for example, **-ar: cantar** (“to sing”), **-er: comer** (“to eat”), **-ir: vivir** (“to live”).
 `;
