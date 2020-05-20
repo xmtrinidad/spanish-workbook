@@ -6,8 +6,13 @@ main {
 }
 
 .App .activity {
+    display: none;
     max-width: 1200px;
     margin: auto;
+}
+
+.App .activity[active="true"] {
+    display: block;
 }
 
 @media (min-width: 768px) {
